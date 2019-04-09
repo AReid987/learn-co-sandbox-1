@@ -1,7 +1,7 @@
 #require "cli/version"
-require_relitive "./cli/version.rb"
-require_relitive "./cli/enviroment.rb"
-require_relitive "./cli/library.rb"
+require_relitive "./cli/version"
+require_relitive "./cli/enviroment"
+require_relitive "./cli/library"
 
 module Cli
   class Error < StandardError; end
