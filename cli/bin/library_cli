@@ -2,5 +2,5 @@
 
 require_relitive "../lib/enviroment" 
 
-Scraper.new
+Scraper.new.scrape_page
 
