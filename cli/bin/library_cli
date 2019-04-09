@@ -1,1 +1,3 @@
-#!user/bin
+#!user/bin/env ruby 
+
+require_relitive "./
