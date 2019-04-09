@@ -3,7 +3,7 @@ require_relitive "./cli/version"
 require_relitive "./cli/enviroment"
 require_relitive "./cli/library"
 
-require "./nokogiri"
+require "nokogiri"
 require "pry"
 
 module Cli
