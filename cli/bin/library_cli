@@ -1,6 +1,6 @@
 #!user/bin/env ruby 
 
-require_relitive "../lib/enviroment.rb" 
+require_relative "../lib/enviroment.rb" 
 
 Scraper.new.scrape_page
 
