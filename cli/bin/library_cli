@@ -1,3 +1,3 @@
 #!user/bin/env ruby 
 
-require_relitive "./lib/cli" 
+require_relitive "../lib/enviroment" 
