@@ -4,10 +4,10 @@ require "open-uri"
 require "pry"
 
 
-require_relitive "./cli/version"
-require_relitive "./cli/enviroment"
+require_relative "./cli/version"
+require_relative "./cli/enviroment"
 require_relitive "./cli/library"
-require_relitive "./cli/scraper"
+require_relative "./cli/scraper"
 
 
 
