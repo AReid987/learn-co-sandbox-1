@@ -1,4 +1,5 @@
 class Scraper 
   def scrape_page 
-  html=open()
+  html=open(https://nls.us.baesystems.com/nldp/pkg_nls.addr_search_res)
+  doc=Nokogir::HTML(html)
 end 
